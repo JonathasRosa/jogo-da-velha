@@ -4,6 +4,7 @@ Um jogo clássico que se popularizou na Inglaterra do século 19, quando mulhere
 ![](/img/tela-1.png)
 ![](/img/tela-2.png)
 ![](/img/tela-3.png)
+![](/img/tela-4.png)
 
 ## Ambiente de Desenvolvimento
 
